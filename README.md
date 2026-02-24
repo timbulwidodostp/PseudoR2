@@ -1,6 +1,8 @@
 # PseudoR2
 Pseudo R2 Statistics Use PseudoR2 (DescTools) With (In) R Software
 
+https://www.youtube.com/watch?v=ou_CDOoNGiU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
